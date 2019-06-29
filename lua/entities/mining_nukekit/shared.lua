@@ -1,0 +1,10 @@
+ENT.Type = "anim"
+ENT.Base = "base_gmodentity"
+ENT.RenderGroup = RENDERGROUP_BOTH
+ENT.PrintName		= "Nuke Kit"
+ENT.Spawnable = true
+ENT.AdminOnly = true
+ENT.Author			= ""
+ENT.Contact			= "Grupo steam Geiger BR"
+ENT.Category = "Evil_mining"
+ENT.Instructions	= ""

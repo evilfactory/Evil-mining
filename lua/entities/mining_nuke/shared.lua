@@ -1,0 +1,10 @@
+ENT.Type = "anim"
+ENT.Base = "base_gmodentity"
+ENT.RenderGroup = RENDERGROUP_BOTH
+ENT.PrintName		= "Nuke"
+ENT.Spawnable = true
+ENT.AdminOnly = true
+ENT.Author			= "Wall3r and Evil Factory"
+ENT.Contact			= "Grupo steam Geiger BR"
+ENT.Category = "Evil_mining"
+ENT.Instructions	= ""

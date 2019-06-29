@@ -1,0 +1,16 @@
+update 1.3
+
++coal consumido baseado na quantidade de kg
++novo ore super raro chamado ruby
++big rock lua error fixed
+
+update 1.3.5
+
++fixed smelting
++kk misterio algo foi adicionado...
++so isso msm '-' '-' '-' '-' '-'
+
+update 1.3.6
+
++mudei a cor do zinco q tava bem errada
++bots n podem mais quebrar as pedras :)
