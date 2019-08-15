@@ -1,7 +1,7 @@
 	surface.CreateFont( "FonteEntidade1", {
 	font = "Roboto", 
 	extended = false,
-	size = 300,
+	size = 150,
 	weight = 150,
 	blursize = 0,
 	scanlines = 0,
